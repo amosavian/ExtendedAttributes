@@ -44,4 +44,3 @@ deploy:
     # repo: amosavian/$PROJECTNAME
     repo: amosavian/$PROJECTNAME
     tags: true
-    condition: "$CARTHAGEDEPLOY = YES"

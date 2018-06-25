@@ -8,6 +8,12 @@ This library handles file extended attributes by extending `URL` struct.
 [![Platform][platform-image]](#)
 [![License][license-image]][license-url]
 [![Release version][release-image]][release-url]
+
+[![CocoaPods version](https://img.shields.io/cocoapods/v/ExtendedAttributes.svg)][cocoapods]
+[![Carthage compatible][carthage-image]](https://github.com/Carthage/Carthage)
+[![Cocoapods Downloads][cocoapods-downloads]][cocoapods]
+[![Cocoapods Apps][cocoapods-apps]][cocoapods]
+
 </center>
 
 ## Requirements
@@ -148,4 +154,11 @@ We would love for you to contribute to ExtendedAttributes, check the [LICENSE][l
 [license-url]: LICENSE
 [release-url]: https://github.com/amosavian/ExtendedAttributes/releases
 [release-image]: https://img.shields.io/github/release/amosavian/ExtendedAttributes.svg
+
+[carthage-image]: https://img.shields.io/badge/Carthage-compatible-4BC51D.svg
+[cocoapods]: https://cocoapods.org/pods/ExtendedAttributes
+[cocoapods-downloads]: https://img.shields.io/cocoapods/dt/ExtendedAttributes.svg
+[cocoapods-apps]: https://img.shields.io/cocoapods/at/ExtendedAttributes.svg
+[docs-image]: https://img.shields.io/cocoapods/metrics/doc-percent/ExtendedAttributes.svg
+[docs-url]: http://cocoadocs.org/docsets/ExtendedAttributes/
 
