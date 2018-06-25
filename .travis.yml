@@ -42,6 +42,6 @@ deploy:
   skip_cleanup: true
   on:
     # repo: amosavian/$PROJECTNAME
-    repo: amosavian/FileProvider
+    repo: amosavian/$PROJECTNAME
     tags: true
     condition: "$CARTHAGEDEPLOY = YES"

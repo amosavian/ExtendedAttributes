@@ -1,6 +1,6 @@
 # ExtendedAttributes
 
-This library handles file extended attributesby extending `URL` struct.
+This library handles file extended attributes by extending `URL` struct.
 
 <center>
 
