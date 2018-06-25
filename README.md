@@ -3,6 +3,7 @@
 This library handles file extended attributesby extending `URL` struct.
 
 <center>
+
 [![Swift Version][swift-image]][swift-url]
 [![Platform][platform-image]](#)
 [![License][license-image]][license-url]
