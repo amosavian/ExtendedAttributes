@@ -143,7 +143,7 @@ We would love for you to contribute to ExtendedAttributes, check the [LICENSE][l
 
 [swift-image]: https://img.shields.io/badge/swift-4.0-orange.svg
 [swift-url]: https://swift.org/
-[platform-image]: https://img.shields.io/badge/platform-macOS|iOS|tvOS|Linux-lightgray.svg
+[platform-image]: https://img.shields.io/badge/platform-macOS%7CiOS%7CtvOS%7CLinux-lightgray.svg
 [license-image]: https://img.shields.io/github/license/amosavian/ExtendedAttributes.svg
 [license-url]: LICENSE
 [release-url]: https://github.com/amosavian/ExtendedAttributes/releases
