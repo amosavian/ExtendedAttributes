@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ExtendedAttributes"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "Working with file's extended attributes easily."
 
   # This description is used to generate tags and improve search results.
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
-  s.swift_version = "4.1"
+  s.swift_version = "5.0"
   s.ios.deployment_target = "9.0"
   s.osx.deployment_target = "10.11"
   s.watchos.deployment_target = "2.0"
